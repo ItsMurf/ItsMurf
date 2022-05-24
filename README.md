@@ -1,7 +1,7 @@
 ---
 
 <h1 align="center">
-  Hi I'm Murf
+  itsmurf
 </h1>
 
 <p align="center">
