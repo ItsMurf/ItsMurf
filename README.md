@@ -5,7 +5,6 @@
 </h1>
 
 <p align="center">
- . security . cars . mountains .  
 </p>
 
 <p align="center">
